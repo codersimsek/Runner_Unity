@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 54df34ebc47ad6d42bc2f1b019cf432e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - myAnim: {instanceID: 0}
+  - bonusSound: {fileID: 8300000, guid: 3a6cd568bbc5b4146b5763b9bf28ba85, type: 3}
+  - CoinSound: {fileID: 8300000, guid: 52320e590bf774734a288886eba557ba, type: 3}
+  - DeathSound: {fileID: 8300000, guid: b9eff218e132a4e76be78840eca96fb2, type: 3}
+  - MagnetCoinSound: {fileID: 8300000, guid: 79180f511d89441b9aa23ccae1992fe0, type: 3}
+  - ShieldSound: {fileID: 8300000, guid: 35fbad8cdde724f11ba6481f1e64af71, type: 3}
+  - coinCollectedVFX: {instanceID: 0}
+  - deathVFX: {fileID: 7226888052703040409, guid: 7ec363c8df426644ea85f8d6d570561c, type: 3}
+  - healthDeclineVFX: {fileID: 6855314210357232287, guid: 7c2a9b83b809a0848915fabd9596b68b, type: 3}
+  - magnetVFX: {fileID: 1590415177872986601, guid: acdb90624a404aa438447006f1026065, type: 3}
+  - wallBreakVFX: {fileID: 725748389856807714, guid: 4bda94453d2ca7444a0fff05b2d425f5, type: 3}
+  - ShieldVFX: {fileID: 4772634663576830964, guid: e1385af346f4e624eb313ec1ea4fcd7e, type: 3}
+  - PlayerSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
